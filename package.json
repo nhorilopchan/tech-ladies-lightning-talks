@@ -1,8 +1,8 @@
 {
-  "name": "tech-ladies-lightning-talks",
+  "name": "write-speak-code-lightning-talk",
   "version": "3.5.0",
   "description": "Autoadvancing lightning talk slides for a Tech Ladies event",
-  "homepage": "http://anything.codes/tech-ladies-lightning-talks",
+  "homepage": "http://anything.codes/write-speak-code-lightning-talk",
   "subdomain": "revealjs",
   "main": "js/reveal.js",
   "scripts": {
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/anythingcodes/tech-ladies-lightning-talks.git"
+    "url": "git://github.com/anythingcodes/write-speak-code-lightning-talk.git"
   },
   "engines": {
     "node": ">=4.0.0"

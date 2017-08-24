@@ -1,5 +1,3 @@
-# Tech Ladies Lightning Talks
-
-Originally presented in Boston.
+# Write/Speak/Code 2017 Lightning Talk
 
 > Help, I need a README!
