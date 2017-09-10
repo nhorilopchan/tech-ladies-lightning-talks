@@ -299,3 +299,19 @@ body {
   text-align: center; }
   .reveal footer img {
     max-height: 8vh; }
+
+/*********************************************
+ * CUSTOM STYLES
+ *********************************************/
+.reveal .slides img.img-small {
+  max-width: 80%; 
+}   
+
+.reveal .slides img.img-medium{
+  width: 70%;
+  height: 440px;
+}
+
+.reveal .slides .no-margin-bottom {
+  margin-bottom: 0
+}
